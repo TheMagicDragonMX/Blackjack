@@ -1,0 +1,11 @@
+Todos perdieron y recuperaron sus apuestas
+Dinero de Zurdo: 1000
+
+El dealer suma la apuesta de 21 al premio de 100
+Zurdo ¡Ha ganado esta ronda y el premio de 200!
+Puntos: 21
+Dinero de Zurdo: 1100
+Todos perdieron y recuperaron sus apuestas
+Dinero de Zurdo: 1100
+Todos perdieron y recuperaron sus apuestas
+Dinero de Zurdo: 1100
