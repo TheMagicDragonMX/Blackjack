@@ -1,5 +1,5 @@
 # Blackjack 🃏
-Third Grade Assign. The goal was to create the classic Blackjack card game
+Third Grade Assignment. The goal was to create the classic Blackjack card game
 
 ## Mission
 Replicate the classic Blackjack card game. 
